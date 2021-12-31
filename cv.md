@@ -5,7 +5,6 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>CV Olga Ilina </title>
 </head>
 <body>
 <img src="https://media-exp1.licdn.com/dms/image/C4D03AQG_B-Jw7b8iDg/profile-displayphoto-shrink_800_800/0/1600096246005?e=1646265600&v=beta&t=T0A4A2LbqDIMYcjWYBBgcL7iRLHEsX8PAYP_S8kymIA" alt="photo" width="100 px" height="100 px" >
