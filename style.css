@@ -1,0 +1,19 @@
+img {
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+    text-align: left;
+}
+
+hr {
+margin-left: 0;
+    border: 2px solid rgb(5, 5, 87);
+    width: 1100px;
+}
+
+#container {
+display: block;
+width: 200px;
+height: 100px;
+background: rgb(239, 239, 241);
+}
